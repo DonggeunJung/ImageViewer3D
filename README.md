@@ -5,7 +5,7 @@
 
 [Image1 : Game Start]
 [Image2 : Move one image to front]
-[Image2 : Slide to next image]
+[Image3 : Slide to next image]
 
 <div>
 <img src="https://github.com/DonggeunJung/ImageViewer3D/blob/master/Etc/ImageViewer3D_Capture01.png?raw=true width="400px"></img>
